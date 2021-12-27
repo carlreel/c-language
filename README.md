@@ -1,2 +1,2 @@
 # c-language
-My learning record
+c语言练习大合集
