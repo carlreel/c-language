@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1641541325 source:c:\users\administrator\desktop\210\×Ö·û´®½×²ãÖ®ºÍ\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"c:\\submit.c"
+
+1641535788 c:\submit.c
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<direct.h>
+	<io.h>
+
